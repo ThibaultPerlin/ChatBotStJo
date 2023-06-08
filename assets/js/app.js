@@ -39,7 +39,7 @@ fetch("https://chatbotstjoback.onrender.com/api/v1/dialogs")
 .catch(error=>console.log(error))
 
 const dialogs=[
-    {question:"toto",answer:"tata"}, 
+    {question:"TestQuest",answer:"TestRep"}, 
     {question:"Salut", answer:"Salut"}, 
     {question:"ça va ?", answer:"bien et toi ?"}
 ]
